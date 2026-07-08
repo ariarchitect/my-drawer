@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# AutoHotkey / local artifacts
+*.log
+*.tmp
+*.bak
+
+# Archives / releases
+dist/
+release/
+*.zip
+*.7z
